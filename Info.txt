@@ -1,0 +1,7 @@
+video link on google drive :
+
+https://drive.google.com/file/d/1USobZeWctoz--cYyqhtjBsx9ne6AHT2_/view
+
+heroku app link :
+
+https://dashboard.heroku.com/apps/suicide-rate-app/deploy/heroku-git
